@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: IceGround
+  m_Name: FlagBanner
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 2
@@ -74,6 +74,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.6462264, g: 0.903651, b: 1, a: 1}
-    - _EmissionColor: {r: 0.15995558, g: 0.3533841, b: 0.36462992, a: 1}
+    - _Color: {r: 1, g: 0, b: 0.14409065, a: 1}
+    - _EmissionColor: {r: 0.6415094, g: 0.29957277, b: 0.30670923, a: 1}
   m_BuildTextureStacks: []
